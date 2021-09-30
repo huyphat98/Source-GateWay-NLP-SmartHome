@@ -23,3 +23,15 @@ sudo apt-get install python3-pandas
 sudo pip3 install pyvi
 
 ```
+
+4. Install Flask
+
+```bash
+sudo pip3 install flask
+```
+
+5. Install Flask-Mqtt
+
+```bash
+sudo pip3 install Flask-MQTT
+```
